@@ -61,7 +61,7 @@
     </a>
 </p>
 
-<h4 align="left">Link to the project of an auction</h4>
+<h4 align="left">Link to the project of the auction house SUBASTERRA</h4>
 <a href="https://github.com/ramon-gon/Subasterra">Project WEB SUBASTERRA</a>
 
 <h4 align="left">Link to the project ERP</h4>
