@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramon Gonzalez</h1>
-<h3 align="center">A passionate developer from Barcelona</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/ramon-gon](https://github.com/ramon-gon)
+<h3 align="center">A passionate developer from Barcelona, Spain</h3>
 
 - 📫 How to reach me **ramonpersonal10@gmail.com**
 
@@ -60,6 +58,12 @@
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
     </a>
 </p>
+
+<h4 align="left">Link to the project WEB Keypoint</h4>
+<a href="https://gitlab.com/ortiz.leal.roger/grup09-hotels">Project WEB hotels Keypoint</a
+<h5 align="left">Sprint Individual - Ramon Gonzalez</h5>
+<a href="https://gitlab.com/gonzalez.guix.ramon/grup-9-ramon-gonzalez">Sprint Individual - Keypoint</a>
+
 
 <h4 align="left">Link to the project of the auction house SUBASTERRA</h4>
 <a href="https://github.com/ramon-gon/Subasterra">Project WEB SUBASTERRA</a>
