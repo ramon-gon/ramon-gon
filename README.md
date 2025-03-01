@@ -60,7 +60,7 @@
 </p>
 
 <h4 align="left">Link to the project WEB Keypoint</h4>
-<a href="https://gitlab.com/ortiz.leal.roger/grup09-hotels">Project WEB hotels Keypoint</a
+<a href="https://gitlab.com/ortiz.leal.roger/grup09-hotels">Project WEB hotels Keypoint</a>
 <h5 align="left">Sprint Individual - Ramon Gonzalez</h5>
 <a href="https://gitlab.com/gonzalez.guix.ramon/grup-9-ramon-gonzalez">Sprint Individual - Keypoint</a>
 
