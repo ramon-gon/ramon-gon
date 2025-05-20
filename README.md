@@ -59,8 +59,8 @@
     </a>
 </p>
 
-<h4 align="left">Link to the Erasmus project of the Nicolau Copernic Institute in Terrassa, Barcelona</h4>
-<a href="https://gitlab.com/mobilitat1/web-2025.git">Project ERASMUS website</a> <br>
+<h4 align="left">Links to the Erasmus project of the Nicolau Copernic Institute in Terrassa, Barcelona</h4>
+<a href="https://gitlab.com/mobilitat1/web-2025.git">Project ERASMUS website</a> <br> <br>
 <a href="https://gitlab.com/mobilitat1/bko-erasmus-2025.git">Project ERASMUS backoffice</a>
 
 <h4 align="left">Link to the project WEB Keypoint</h4>
