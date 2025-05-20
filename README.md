@@ -59,6 +59,10 @@
     </a>
 </p>
 
+<h4 align="left">Link to the Erasmus project of the Nicolau Copernic Institute in Terrassa, Barcelona</h4>
+<a href="https://gitlab.com/mobilitat1/web-2025.git">Project Erasmus website</a>
+<a href="https://gitlab.com/mobilitat1/bko-erasmus-2025.git">Project Erasmus backoffice</a>
+
 <h4 align="left">Link to the project WEB Keypoint</h4>
 <a href="https://gitlab.com/ortiz.leal.roger/grup09-hotels">Project WEB hotels Keypoint</a>
 <h5 align="left">Sprint Individual - Ramon Gonzalez</h5>
