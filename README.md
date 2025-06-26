@@ -21,7 +21,6 @@
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>
     </a>
-
     <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
     </a>
